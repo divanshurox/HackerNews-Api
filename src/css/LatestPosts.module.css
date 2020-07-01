@@ -1,0 +1,15 @@
+.Posts{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Card{
+    width: 60%;
+    background-color: grey;
+    margin: 10px auto;
+    border: 2px solid black;
+    box-shadow: 0 2px 3px #ccc;
+    
+}
